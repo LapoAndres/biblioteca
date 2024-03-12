@@ -1,0 +1,19 @@
+# Archivos y directorios generados por el sistema
+bin/
+target/
+
+# Archivos de configuración de Eclipse
+.classpath
+.project
+.settings/
+
+# Logs y archivos temporales
+*.log
+*.swp
+
+# Archivos compilados Java
+*.class
+
+# Archivos de construcción Maven
+log/
+target/
